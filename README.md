@@ -27,6 +27,6 @@ Check the directory mentioned in the main2.py to find the saved final image.
 
 # Developers
 
-Hashwanth S
-Akash A
+Hashwanth S\n
+Akash A\n
 K Mohana Ganesh
