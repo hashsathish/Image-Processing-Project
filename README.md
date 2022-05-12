@@ -4,25 +4,25 @@ Filters are a source of infinite fun and hilarity. These filters make individual
 
 ## Implementation Steps
 
-STEP 1
+**STEP 1**
 Open the main.py file and run the python script
 Before running the script, make sure the image set is available in the directory mentioned in code else change the directory directing to that image set
 
-STEP 2
+**STEP 2**
 The output console will list a list of filers to choose
 
-STEP 3 
+**STEP 3**
 Select the desired filter and Enter the filter number. The script will run and a window will open showing the filter being applied over the face.
 
-STEP 4
+**STEP 4**
 Now, run the second script main2.py
 
-STEP 5
+**STEP 5**
 Once the script starts to run, It capture the window where the face detection is being done and it will process the image.
 The image is processed under various image processing techniques, Image Sharpening, Image enhancement and Image Denoising.
 Finally, once all the processes are done. The final image will be displayed.
 
-STEP 6
+**STEP 6**
 Check the directory mentioned in the main2.py to find the saved final image.
 
 # Developers
